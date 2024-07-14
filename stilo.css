@@ -1,0 +1,27 @@
+body {
+    background-color: #F8EDE3;
+
+    
+}
+
+div {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+a {
+    color: #8D493A;
+    background-color: #DFD3C3 ;
+    padding: 20px 50px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover {
+    background-color:  #D0B8A8;
+}
